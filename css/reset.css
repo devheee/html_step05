@@ -9,7 +9,7 @@
     box-sizing: border-box;
     font-size: inherit;
     font-weight: inherit;
-    color: #444444;
+    color: inherit;
 }
 
 ul,
@@ -31,4 +31,5 @@ body {
     /* 행간(가운데) */
     letter-spacing: -0.025em;
     /* 자간 */
+    color: #444444;
 }
